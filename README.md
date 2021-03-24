@@ -12,3 +12,5 @@ https://marisela-gutierrez.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Marisela Gutierrez
+
+### ©️2019 Run Buddy, Inc 
